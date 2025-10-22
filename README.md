@@ -11,7 +11,7 @@ Plot les données autour des failures pour visualiser manuellement les changemen
 -Tentative de travailler sur l'ensemble des données ?
 
 3ème Étape:
-Labellisé le dataset
+Labellisé le dataset.
 
 3ème Étape:
 Choix des features ?
